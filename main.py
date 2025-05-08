@@ -7,7 +7,7 @@ from googletrans import Translator
 import time
 
 # ==== CONFIG ====
-API_KEY = "AIzaSyCdArxSGDwbdjJSJPfRzc9VmziGO85-HdA"  # <-- Replace this with your actual API key
+API_KEY = "ENTER API KEY"  # <-- Replace this with your actual API key
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
 chat = model.start_chat()

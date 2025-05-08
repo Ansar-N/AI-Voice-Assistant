@@ -18,7 +18,7 @@ A sleek, modern, and multilingual AI-powered voice assistant built with Python a
 
 ## 📸 Screenshots
 
-> *(Add your own images in a `/screenshots` folder and link them here)*
+
 
 | Dark Mode                          |
 |------------------------------------|

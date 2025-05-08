@@ -20,9 +20,9 @@ A sleek, modern, and multilingual AI-powered voice assistant built with Python a
 
 > *(Add your own images in a `/screenshots` folder and link them here)*
 
-| Light Mode                           | Dark Mode                          |
-|--------------------------------------|------------------------------------|
-| ![Light Mode](screenshots/light.png) | ![Dark Mode](screenshots/dark.png) |
+| Dark Mode                          |
+|------------------------------------|
+| ![Dark Mode](https://github.com/Ansar-N/AI-Voice-Assistant/blob/main/image.jpg) |
 
 ---
 

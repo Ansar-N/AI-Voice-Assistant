@@ -60,8 +60,6 @@ Edit the Python script to set your API key:
 API_KEY = "your_actual_api_key_here"
 ```
 
-Get a free API key from [Google AI Studio](https://ai.google.dev).
-
 ---
 
 ## 💡 Usage

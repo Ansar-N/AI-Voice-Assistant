@@ -31,8 +31,8 @@ A sleek, modern, and multilingual AI-powered voice assistant built with Python a
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-voice-assistant.git
-cd ai-voice-assistant
+git clone https://github.com/Ansar-N/AI-Voice-Assistant.git
+cd AI-Voice-Assistant.git
 ```
 
 ### 2️⃣ Set up your environment
